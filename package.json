@@ -1,0 +1,17 @@
+{
+  "name": "sools-jwt-hedera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sools-core-client": "^1.0.0",
+    "sools-hedera": "^1.0.0",
+    "sools-jwt": "^1.0.0",
+    "sools-modeling-hedera": "^1.0.0"
+  }
+}
